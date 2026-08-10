@@ -1,18 +1,9 @@
-# Welcome to Mill Pond Research's Github
+# Mill Pond Research
 
-Mill Pond Research, founded in 2024 by Andrew and Pete Shimshock, specializes in developing advanced AI solutions for enterprise-level business intelligence and automation.
+AI infrastructure. Open source. Self-host anywhere.
 
-## Our Core Competencies
+**Flagship project:** [Xilos](https://xilos.ai) — the AI gateway. Route, govern, cache, and control every LLM call in your organization.
 
-1. Human-Centric AI Development
-2. Rapid Prototyping and Deployment
-3. Private AI Implementation
-4. Cost-Effective Scaling Solutions
-
-## Technology Stack
-
-- Large Language Models (LLMs)
-- Natural Language Processing (NLP)
-- Machine Learning (ML)
-- Data Analytics and Visualization
-- Cloud Computing Integration
+Maintained public repos:
+- [AI-Knowledge-Base](https://github.com/Mill-Pond-Research/AI-Knowledge-Base) — curated daily
+- [The-Intelligence-Solution](https://github.com/Mill-Pond-Research/The-Intelligence-Solution) — curated weekly
